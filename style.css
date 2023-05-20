@@ -1,0 +1,65 @@
+.main{
+    width: 100%;
+    background-image: url(Img2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 640px;
+}
+
+.title{
+    color: rgb(255, 72, 0);
+    font-size: 60px;
+    letter-spacing: 10px;
+    font-style: normal;
+    font-weight:700;
+    font-family: Arial;
+    text-align: center;
+}
+
+.Japanese {
+    color:rgb(255, 230, 0);
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 55px;
+    font-style: oblique;
+    line-height: 2px;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(255, 72, 0);
+    font-family: 'Calibri';
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: larger;
+    text-align: left;
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+
+
+.content {
+    color: rgb(0, 34, 228);
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.par {
+    color: rgb(253, 80, 0);
+    font-style: oblique;
+    font-weight: bold;
+}
